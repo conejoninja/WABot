@@ -21,6 +21,7 @@ Trivial
 * Reply to the questions, each 20 seconds there will be a clue.
 * After 3 clues without correct answers, the answer is given
 * Each - represent a character
+* Questions were taken from here : http://www.tjmm.com/trivial/paginatrivial.htm , currently only "miscelania" topic is active
 
 
 
