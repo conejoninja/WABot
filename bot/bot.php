@@ -3,7 +3,7 @@
 
 require_once 'config.php';
 
-require_once '../src/php/whatsprot.class.php';
+require_once '../whatsapi/src/php/whatsprot.class.php';
 require_once 'inc/utils.php';
 
 require_once 'inc/database/DBConnectionClass.php';
