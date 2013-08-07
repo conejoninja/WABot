@@ -1,0 +1,3 @@
+[submodule "whatsapi"]
+	path = whatsapi
+	url = git@github.com:venomous0x/WhatsAPI.git
