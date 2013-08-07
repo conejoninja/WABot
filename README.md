@@ -6,6 +6,7 @@ WABot (yeah, very creative name) is a small bot that lets you play hangman or tr
 * You'll need a server capable of running PHP+MySQL and a WhatsApp account.
 * It uses the unofficial API for WahtsApp, "WhatsAPI" https://github.com/venomous0x/WhatsAPI , for questions about how to set up please, go there, I will not answer any question about WhatsAPI
 * Words for hangman and questions for trivial are in Spanish, very easy to change the files to any other language
+* DAO classes were taken from Osclass https://github.com/osclass/OSClass
 
 Hangman
 =======
